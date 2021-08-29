@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { StyleSheet, TextInput, View } from 'react-native'
+import { StyleSheet, TextInput, View,Dimensions } from 'react-native'
 import { EvilIcons } from '@expo/vector-icons'; 
 
 const Search = ({ fetchWeatherData }) => {

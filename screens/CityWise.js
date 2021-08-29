@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { StyleSheet, Text, View,ActivityIndicator } from 'react-native'
-import Weather from '../components/Weather';
 import Search from '../components/Search';
+import Weather from '../components/Weather';
+
 
 const API_KEY = "0adcf369df62ac2cf865a8e6b1f2789b";
 

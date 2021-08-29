@@ -31,9 +31,10 @@ const styles = StyleSheet.create({
     },
     titleContent:{
         fontSize:30,
-        fontWeight:'bold'
+        fontWeight:'bold',
+        color:"#fff"
     },
     content:{
-        width='100%'
+        width:'100%'
     }
 })
