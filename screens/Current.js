@@ -15,7 +15,7 @@ import {
 import * as Location from 'expo-location';
 import Header from '../components/Header'
 
-const openWeatherApi = "0d872bc4b5fec223998f8e7523f1a6a2";
+const openWeatherApi = "Your API";
 
 let url = `https://api.openweathermap.org/data/2.5/onecall?&units=metric&exclude=minutely&appid=${openWeatherApi}`;
 

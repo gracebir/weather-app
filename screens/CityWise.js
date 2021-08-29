@@ -4,7 +4,7 @@ import Search from '../components/Search';
 import Weather from '../components/Weather';
 
 
-const API_KEY = "0adcf369df62ac2cf865a8e6b1f2789b";
+const API_KEY = "Your Api";
 
 const CityWise = () => {
     const [weatherData, setWeatherData] = useState(null);
